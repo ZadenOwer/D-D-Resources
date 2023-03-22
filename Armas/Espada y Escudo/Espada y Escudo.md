@@ -1,10 +1,11 @@
 <link rel="stylesheet" href="../../base.css"/>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/ZadenOwer/D-D-Resources/main/base.css"/>
 
 # Espada y Escudo
 
 Esta arma se beneficia de ciertos aceites para aumentar sus capacidades ofensivas.
 
-<img src="./espada-escudo-icon.jpg" width="200"/>
+<img src="./espada-escudo-icono.jpg" width="200"/>
 
 ## Estadísticas
 

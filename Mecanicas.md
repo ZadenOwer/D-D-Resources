@@ -13,7 +13,7 @@ Puedes elegir el modificador que quieres usar al inicio de la campaña para esta
 - [Arco](./Armas/Arco/Arco.md)
 - [Hojas Duales](Armas/Hojas%20Duales/Hojas%20Duales.md)
 - [Espada y Escudo](Armas/Espada%20y%20Escudo/Espada%20y%20Escudo.md)
-- Espada Larga
+- [Espada Larga](Armas/Espada%20Larga/Espada%20Larga.md)
 
 ### Armas pesadas
 

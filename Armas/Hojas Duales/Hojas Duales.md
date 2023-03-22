@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="../../base.css"/>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/ZadenOwer/D-D-Resources/main/base.css"/>
 
 # Hojas Duales
 
