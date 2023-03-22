@@ -11,7 +11,7 @@ Un cazador puede ser experto en varias armas, pero con ciertas limitantes
 Puedes elegir el modificador que quieres usar al inicio de la campaña para estas armas, entre fuerza y destreza
 
 - [Arco](./Armas/Arco/Arco.md)
-- Hojas duales
+- [Hojas Duales](Armas/Hojas%20Duales/Hojas%20Duales.md)
 - Espada y Escudo
 - Espada Larga
 
