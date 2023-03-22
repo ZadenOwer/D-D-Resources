@@ -1,0 +1,135 @@
+{
+	// Place your D&D workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	// ***** Rarezas *****
+	"pComun": {
+		"scope": "markdown",
+		"prefix": "pComun",
+		"body": "<span style='color:var(--poco-comun)'>$1</span>",
+		"description": "Aplica el color de la rareza poco común"
+	},
+	"raro": {
+		"scope": "markdown",
+		"prefix": "raro",
+		"body": "<span style='color:var(--raro)'>$1</span>",
+		"description": "Aplica el color de la rareza raro"
+	},
+	"muy-raro": {
+		"scope": "markdown",
+		"prefix": "mRaro",
+		"body": "<span style='color:var(--muy-raro)'>$1</span>",
+		"description": "Aplica el color de la rareza muy raro"
+	},
+	"legendario": {
+		"scope": "markdown",
+		"prefix": "legendario",
+		"body": "<span style='color:var(--legendario)'>$1</span>",
+		"description": "Aplica el color de la rareza legendario"
+	},
+	// ***** Estadísticas *****
+	"ataque": {
+		"scope": "markdown",
+		"prefix": "ataque",
+		"body": "<span style='color:var(--ataque)'>$1</span>",
+		"description": "Aplica el color de ataque"
+	},
+	"competencia": {
+		"scope": "markdown",
+		"prefix": "competencia",
+		"body": "<span style='color:var(--competencia)'>$1</span>",
+		"description": "Aplica el color del bonus de competencia"
+	},
+	"velocidad": {
+		"scope": "markdown",
+		"prefix": "velocidad",
+		"body": "<span style='color:var(--velocidad)'>$1</span>",
+		"description": "Aplica el color de la estadística de velocidad"
+	},
+	"fuerza": {
+		"scope": "markdown",
+		"prefix": "fuerza",
+		"body": "<span style='color:var(--fuerza)'>$1</span>",
+		"description": "Aplica el color de la estadística de fuerza"
+	},
+	"destreza": {
+		"scope": "markdown",
+		"prefix": "destreza",
+		"body": "<span style='color:var(--destreza)'>$1</span>",
+		"description": "Aplica el color de la estadística de destreza"
+	},
+	"constitucion": {
+		"scope": "markdown",
+		"prefix": "constitucion",
+		"body": "<span style='color:var(--constitucion)'>$1</span>",
+		"description": "Aplica el color de la estadística de constitucion"
+	},
+	// ***** Tipos de daño *****
+	"contundente": {
+		"scope": "markdown",
+		"prefix": "contundente",
+		"body": "<span style='color:var(--contundente)'>$1</span>",
+		"description": "Aplica el color del daño contundente"
+	},
+	"acido": {
+		"scope": "markdown",
+		"prefix": "acido",
+		"body": "<span style='color:var(--acido)'>$1</span>",
+		"description": "Aplica el color del daño acido"
+	},
+	"veneno": {
+		"scope": "markdown",
+		"prefix": "veneno",
+		"body": "<span style='color:var(--veneno)'>$1</span>",
+		"description": "Aplica el color del daño veneno"
+	},
+	"hielo": {
+		"scope": "markdown",
+		"prefix": "hielo",
+		"body": "<span style='color:var(--hielo)'>$1</span>",
+		"description": "Aplica el color del daño hielo"
+	},
+	"fuego": {
+		"scope": "markdown",
+		"prefix": "fuego",
+		"body": "<span style='color:var(--fuego)'>$1</span>",
+		"description": "Aplica el color del daño fuego"
+	},
+	"rayo": {
+		"scope": "markdown",
+		"prefix": "rayo",
+		"body": "<span style='color:var(--rayo)'>$1</span>",
+		"description": "Aplica el color del daño rayo"
+	},
+	"agua": {
+		"scope": "markdown",
+		"prefix": "agua",
+		"body": "<span style='color:var(--agua)'>$1</span>",
+		"description": "Aplica el color del daño agua"
+	},
+	"draco": {
+		"scope": "markdown",
+		"prefix": "draco",
+		"body": "<span style='color:var(--draco)'>$1</span>",
+		"description": "Aplica el color del daño draco"
+	},
+	"luz": {
+		"scope": "markdown",
+		"prefix": "luz",
+		"body": "<span style='color:var(--luz)'>$1</span>",
+		"description": "Aplica el color del daño luz"
+	},
+}

@@ -1,0 +1,23 @@
+* {
+  --poco-comun: #0f25f2;
+  --raro: #16989d;
+  --muy-raro: #d701fe;
+  --legendario: #9a920a;
+
+  --ataque: #e22e2e;
+  --competencia: #d97b4d;
+  --velocidad: #16ac80;
+  --fuerza: #f4961c;
+  --destreza: #3e8f0d;
+  --constitucion: #771241;
+
+  --contundente: #8b8b8b;
+  --acido: #50426a;
+  --veneno: #8e62de;
+  --hielo: #00c0ff;
+  --fuego: #c93108;
+  --rayo: #19be72;
+  --agua: #0a7bbc;
+  --draco: #332c28;
+  --luz: #7baa09;
+}
