@@ -10,7 +10,7 @@ Un cazador puede ser experto en varias armas, pero con ciertas limitantes
 
 Puedes elegir el modificador que quieres usar al inicio de la campaña para estas armas, entre fuerza y destreza
 
-- Arco (hasta 60 flechas max equipadas, se pueden craftear 30 en descansos cortos y todas en descansos largos)
+- [Arco](./Armas/Arco/Arco.md)
 - Hojas duales
 - Espada y Escudo
 - Espada Larga

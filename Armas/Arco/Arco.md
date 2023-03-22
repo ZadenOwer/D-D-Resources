@@ -4,6 +4,8 @@
 
 Arma a distancia que se beneficia de su alcance para acertar daño perforante y usar revestimientos de flechas para ocasionar estados alterados.
 
+```Puedes tener hasta 60 flechas max equipadas, se pueden craftear 30 en descansos cortos y todas en descansos largos```
+
 <img src="./arco-icono.jpg" width="200"/>
 
 ## Estadísticas
