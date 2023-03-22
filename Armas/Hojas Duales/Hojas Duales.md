@@ -54,4 +54,12 @@ La mejora de <span style='color:var(--velocidad)'>velocidad de movimiento</span>
 
 El bono del daño elemental aumenta a +20%
 
+## Efectos de la rareza del arma
+
+- <span style='color:var(--raro)'>Raro</span>: <span style='color:var(--ataque)'>+1</span> en tiradas de ataque y daño.
+
+- <span style='color:var(--muy-raro)'>Muy Raro</span>: <span style='color:var(--ataque)'>+2</span> en tiradas de ataque y daño.
+
+- <span style='color:var(--legendario)'>Legendario</span>: <span style='color:var(--ataque)'>+3</span> en tiradas de ataque y daño.
+
 <img src="./Hojas-Duales.jpg" width="500">
