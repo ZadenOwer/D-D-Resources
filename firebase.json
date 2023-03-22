@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": ".",
+    "site": "mh-dnd-resources",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

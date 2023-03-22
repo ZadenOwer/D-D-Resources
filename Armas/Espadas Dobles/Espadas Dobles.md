@@ -1,7 +1,6 @@
-<link rel="stylesheet" href="../../base.css"/>
-<link rel="stylesheet" href="https://raw.githubusercontent.com/ZadenOwer/D-D-Resources/main/base.css"/>
+<link rel="stylesheet" href="../../base.css">
 
-# Hojas Duales
+# Espadas Dobles
 
 Una arma doble que se beneficia de sus habilidades para hacer gran daño de manera constante en sus ataques.
 
@@ -9,7 +8,7 @@ Una arma doble que se beneficia de sus habilidades para hacer gran daño de mane
 
 ## Estadísticas
 
-- <span style="color:var(--ataque)">1d6</span> de daño ***Cortante*** + Modificador de <span style="color:var(--fuerza)">Fuerza</span> o <span style="color:var(--destreza)">Destreza</span>, por cada cuchilla
+- <span style="color:var(--ataque)">1d6</span> de daño ***Cortante*** + Modificador de <span style="color:var(--fuerza)">Fuerza</span> o <span style="color:var(--destreza)">Destreza</span>, por cada espada
 - Ligero
 
 ## Habilidades
