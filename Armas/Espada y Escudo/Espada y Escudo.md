@@ -9,7 +9,6 @@ Esta arma se beneficia de ciertos aceites para aumentar sus capacidades ofensiva
 ## Estadísticas
 
 - <span style="color:var(--ataque)">1d6</span> de daño ***Cortante*** + Modificador de <span style="color:var(--fuerza)">Fuerza</span> o <span style="color:var(--destreza)">Destreza</span>
-- +2 AC con el escudo levantado
 - Ligero
 
 ## Habilidades

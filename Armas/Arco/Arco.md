@@ -10,7 +10,7 @@ Arma a distancia que se beneficia de su alcance para acertar daño perforante y 
 
 ## Estadísticas
 
-- <span style="color:var(--ataque)">1d8</span> de daño ***Perforante*** + Modificador de <span style="color:var(--fuerza)">Fuerza</span> o <span style="color:var(--destreza)">Destreza</span>
+- <span style="color:var(--ataque)">1d8</span> de daño ***Perforante*** + tu modificador de <span style="color:var(--fuerza)">Fuerza</span> o <span style="color:var(--destreza)">Destreza</span>
 - Alcance de 15-60 metros
 - A 2 manos
 - Ligero

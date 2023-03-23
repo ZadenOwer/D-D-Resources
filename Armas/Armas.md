@@ -17,9 +17,9 @@ Un cazador puede ser experto en varias armas, pero con ciertas limitantes
 - 1 arma pesada y 1 técnica
 - 2 armas pesadas o 2 técnicas
 
-### Armas ligeras
+Algunas armas te dan la oportunidad de elegir el <span style='color:var(--ataque)'>modificador de daño</span> de tu preferencia al momento de elegirla.
 
-Puedes elegir el modificador que quieres usar al inicio de la campaña para estas armas, entre fuerza y destreza
+### Armas ligeras
 
 - [Arco](Arco/Arco.html)
 - [Espada Larga](Espada%20Larga/Espada%20Larga.html)
@@ -28,10 +28,10 @@ Puedes elegir el modificador que quieres usar al inicio de la campaña para esta
 
 ### Armas pesadas
 
-- Gran Espada
-- Martillo
-- Lanza
-- Hacha Cargada
+- [Gran Espada](Gran%20Espada/Gran%20Espada.html)
+- [Martillo](Martillo/Martillo.html)
+- [Lanza](Lanza/Lanza.html)
+- [Hacha Cargada](Hacha%20Cargada/Hacha%20Cargada.html)
 
 ### Armas técnicas
 
