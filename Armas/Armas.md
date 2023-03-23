@@ -35,10 +35,10 @@ Algunas armas te dan la oportunidad de elegir el <span style='color:var(--ataque
 
 ### Armas técnicas
 
-- Hacha Espada
-- Magnet Spike
-- Cornamusa
-- Lanza pistola
+- [Hacha Espada](Hacha%20Espada/Hacha%20Espada.html)
+- [Púa Magnética](Pua%20Magnetica/Pua%20Magnetica.html)
+- [Cornamusa](Cornamusa/Cornamusa.html)
+- [Lanza pistola](Lanza%20Pistola/Lanza%20Pistola.html)
 
 ## Rarezas y sus efectos
 
@@ -47,6 +47,8 @@ Las rarezas de las armas son:
 ### Normales
 
 Son las armas basicas hechas de huesos o minerales, no proveen ningun efecto extra.
+
+Varias armas tienen acceso a habilidades desde rareza normal, puedes reconocerlas porque no tienen un color en su nombre de habilidad.
 
 ### <span style='color:var(--poco-comun)'>Poco comunes</span>
 
