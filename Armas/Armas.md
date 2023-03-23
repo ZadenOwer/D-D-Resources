@@ -21,10 +21,10 @@ Un cazador puede ser experto en varias armas, pero con ciertas limitantes
 
 Puedes elegir el modificador que quieres usar al inicio de la campaña para estas armas, entre fuerza y destreza
 
-- [Arco](./Armas/Arco/Arco.html)
-- [Espada Larga](Armas/Espada%20Larga/Espada%20Larga.html)
-- [Espada y Escudo](Armas/Espada%20y%20Escudo/Espada%20y%20Escudo.html)
-- [Espadas Dobles](Armas/Espadas%20Dobles/Espadas%20Dobles.html)
+- [Arco](Arco/Arco.html)
+- [Espada Larga](Espada%20Larga/Espada%20Larga.html)
+- [Espada y Escudo](Espada%20y%20Escudo/Espada%20y%20Escudo.html)
+- [Espadas Dobles](Espadas%20Dobles/Espadas%20Dobles.html)
 
 ### Armas pesadas
 
