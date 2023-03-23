@@ -31,7 +31,7 @@ La melodía es efectiva por 1 minuto, hasta que completes una nueva melodía, se
 
 Como una acción puedes golpear tu cornamusa en el suelo para activar una melodía mono-nota.
 
-Cuando lo haces, tu y todos los aliados que esten a un rango de 15 metros de ti, obtienen el beneficio de la nota que elegiste por hasta el final de su siguiente turno.
+Cuando lo haces, tu y todos los aliados que esten a un rango de 15 metros de ti, obtienen el beneficio de la nota que elegiste hasta el final de su siguiente turno.
 
 ## Notas Disponibles
 
