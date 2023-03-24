@@ -15,6 +15,7 @@ La idea de este documento es que sea una guia para las partidas de D&D basadas e
 
 ## Mecánicas Especiales
 
+- [Progresión](Mecanicas/Progresion/Progresion.html)
 - [Estados Alterados](Mecanicas/Estados%20Alterados/Estados%20Alterados.html)
 - [Plagas Elementales](Mecanicas/Plagas%20Elementales/Plagas%20Elementales.html)
 - [Romper Partes](Mecanicas/Romper%20Partes/Romper%20Partes.html)

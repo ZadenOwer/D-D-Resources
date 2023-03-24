@@ -15,6 +15,12 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
+	// ***** Ayudas *****
+	"estrella": {
+		"scope": "markdown",
+		"prefix": "estrella",
+		"body": "✪",
+	},
 	// ***** Rarezas *****
 	"pComun": {
 		"scope": "markdown",
