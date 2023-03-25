@@ -2,8 +2,6 @@
 
 # Rango ✪✪✪✪✪ (5)
 
-Monstruos con grandes capacidades destructivas, invaden zonas de cacería para expandir su miedo y son demasiado territoriales para dejar que otro monstruo de la misma categoría se encuentre cerca.
-
 ## [Bazelgeuse](Bazelgeuse/Bazelgeuse.html)
 
 Un wyvern volador bastante agresivo, genera una sustancia explosiva con la que crea escamas que puede lanzar y explotan al cabo de un momento. 

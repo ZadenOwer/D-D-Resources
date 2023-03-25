@@ -2,8 +2,6 @@
 
 # Rango ✪✪✪✪✪✪ (6)
 
-Estos monstruos representan la mayor amenaza, representaciones mismas de los desastres naturales, su sola presencia afecta al ecosistema.
-
 ## [Kushala Daora](Kushala%20Daora/Kushala%20Daora.html)
 
 Un dragón anciano con escamas metálicas y la capacidad de controlar el viento a voluntad, genera barreras de viento para defenderse y poderosos tornados para controlar el campo de batalla.
