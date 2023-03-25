@@ -70,3 +70,43 @@ Un leviatán que domina los mares, a pesar de su naturaleza acuatica se mueve pe
     </tr>
   </tbody>
 </table>
+
+## Armas
+
+Las Armas de Lagiacrus son de elemento <span style='color:var(--rayo)'>Rayo</span>.
+
+## Armadura
+
+<img src="lagiacrus-armaduras.png">
+
+<table>
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Nivel de Resistencia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span style='color:var(--fuego)'>Fuego</span></td>
+      <td>-3 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--draco)'>Draco</span></td>
+      <td>-2 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--rayo)'>Rayo</span></td>
+      <td>+3 ✪</td>
+    </tr>
+  </tbody>
+</table>
+
+### Habilidades
+
+<table>
+  <tr>
+    <td>Ataque Elemental</td>
+    <td>El daño elemental que realizas recibe un bonus de <span style='color:var(--ataque)'>1d4</span>.</td>
+  </tr>
+</table>
