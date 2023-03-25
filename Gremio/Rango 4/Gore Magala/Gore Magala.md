@@ -106,6 +106,6 @@ Las Armas de Gore Magala son de elemento <span style='color:var(--draco)'>Draco<
 <table>
   <tr>
     <td>Coalescencia</td>
-    <td>Al salir de un estado alterado (excepto aturdimiento), tus próximos 3 ataques reciben un bonus en tiradas de ataque y daño de <span style='color:var(--ataque)'>1d6</span>.</td>
+    <td>Al salir de una plaga elemental o estado alterado (excepto aturdimiento), tus próximos 3 ataques reciben un bonus en tiradas de ataque y daño de <span style='color:var(--ataque)'>1d6</span>.</td>
   </tr>
 </table>

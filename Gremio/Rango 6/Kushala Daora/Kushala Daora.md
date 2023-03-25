@@ -42,3 +42,51 @@ Kushala Daora es suceptible al <span style='color:var(--veneno)'>Veneno</span>, 
 ### Partes Rompibles
 
 <img src="./kushala-daora-fisiologia.jpg">
+
+## Armas
+
+Las Armas de Kushala Daora son de elemento <span style='color:var(--hielo)'>Hielo</span>.
+
+## Armadura
+
+<img src="kushala-daora-armaduras.png">
+
+<table>
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Nivel de Resistencia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span style='color:var(--draco)'>Draco</span></td>
+      <td>-2 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--rayo)'>Rayo</span></td>
+      <td>-2 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--hielo)'>Hielo</span></td>
+      <td>+3 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--agua)'>Agua</span></td>
+      <td>+3 ✪</td>
+    </tr>
+  </tbody>
+</table>
+
+### Habilidades
+
+<table>
+  <tr>
+    <td>Maniobras Evasivas</td>
+    <td>Si fueras a recibir un ataque, recibes un bonus en tu tirada de salvación de <span style='color:var(--ataque)'>1d8</span>.</td>
+  </tr>
+  <tr>
+    <td>Bendición de Kushala Daora</td>
+    <td>El daño elemental de hielo y agua que realizas recibe un bonus de <span style='color:var(--ataque)'>1d8</span>.</td>
+  </tr>
+</table>

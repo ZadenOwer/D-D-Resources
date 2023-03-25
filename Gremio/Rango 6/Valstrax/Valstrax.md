@@ -83,3 +83,56 @@ Un dragón anciano bastante raro de presenciar, utiliza un órgano especial en s
     </tr>
   </tbody>
 </table>
+
+## Armas
+
+Las Armas de Valstrax son de elemento <span style='color:var(--draco)'>Draco</span>.
+
+## Armadura
+
+<img src="armadura-hombre.png" width="250" alt="Masculina">
+<img src="armadura-mujer.png" width="230" alt="Femenina">
+
+<table>
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Nivel de Resistencia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span style='color:var(--rayo)'>Rayo</span></td>
+      <td>-2 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--hielo)'>Hielo</span></td>
+      <td>-2 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--agua)'>Agua</span></td>
+      <td>-2 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--fuego)'>Fuego</span></td>
+      <td>-2 ✪</td>
+    </tr>
+    <tr>
+      <td><span style='color:var(--draco)'>Draco</span></td>
+      <td>+3 ✪</td>
+    </tr>
+  </tbody>
+</table>
+
+### Habilidades
+
+<table>
+  <tr>
+    <td>Afilado</td>
+    <td>Tus ataques se consideran críticos en Nat18-20.</td>
+  </tr>
+  <tr>
+    <td>Corazón de Dragón</td>
+    <td>Si tu vida baja a la mitad, tus resistencias elementales negativas se vuelven positivas y el daño <span style='color:var(--draco)'>Draco</span> que realizas recibe un bonus de <span style='color:var(--ataque)'>2d4</span>.</td>
+  </tr>
+</table>
