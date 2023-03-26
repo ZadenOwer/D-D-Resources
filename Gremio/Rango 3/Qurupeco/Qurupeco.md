@@ -14,7 +14,7 @@ Las armas de Qurupeco no tienen elemento.
 
 ## Armadura
 
-<img src="ludroth-real-armaduras.png" width="500">
+<img src="qurupeco-armaduras.png" width="500">
 
 <table>
   <thead>
